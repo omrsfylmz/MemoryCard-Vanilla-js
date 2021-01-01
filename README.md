@@ -3,7 +3,7 @@ A simple Memory Card  app with HTML, CSS and Javascipt
 
 ### What is this project about?
 - This project is include basic js methods and css properties
-- 
+
 
 
 ### How to setup this project?
