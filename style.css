@@ -8,7 +8,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #060ab2;
+  background-color: #ff3cac;
+  background-image: linear-gradient(
+    225deg,
+    #ff3cac 0%,
+    #784ba0 50%,
+    #2b86c5 100%
+  );
 }
 .memory-game {
   width: 640px;
@@ -40,7 +46,9 @@ body {
   height: 100%;
   position: absolute;
   border-radius: 5px;
-  background-color: #1c7ccc;
+  background-color: #faaca8;
+  background-image: linear-gradient(19deg, #faaca8 0%, #ddd6f3 100%);
+
   backface-visibility: hidden;
 }
 .front-face {
